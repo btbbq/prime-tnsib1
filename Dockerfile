@@ -1,6 +1,6 @@
 FROM thejmthon/jmub:slim-buster
 
-RUN git clone https://github.com/devmonzer08/devmonzer.git /root/WWWL5
+RUN git clone https://github.com/btbbq/prime-Telthone1.git /root/WWWL5
 
 WORKDIR /root/WWWL5
 
